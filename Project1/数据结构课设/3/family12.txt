@@ -1,0 +1,3 @@
+jack 18770101  1 London,UK  1 18970101 0
+null     null       0   null        0 null       -1
+null     null       0   null        0 null       -1

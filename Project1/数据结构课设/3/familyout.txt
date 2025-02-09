@@ -1,0 +1,412 @@
+name: jack 
+birthdate: 18770101 
+marry: 1 
+address: London,UK 
+DeadorAlive: 1
+deathdate: 18970101
+sex: 0 
+----------------------------
+name: A3 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: B5 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: C7 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: D11 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E14 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: E13 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: E12 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: C6 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: B4 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: C5 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: D10 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E11 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: E10 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: D9 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: B3 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: C4 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: D8 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E9 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: D7 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E8 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: C3 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: D6 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E7 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: D5 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: A2 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: A1 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: B2 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: B1 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: C2 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: D4 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E6 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: E5 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: E4 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: D3 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: D2 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E3 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+name: C1 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: D1 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+name: E2 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+name: E1 
+birthdate: 1 
+marry: 1 
+address: 1 
+DeadorAlive: 1
+deathdate:        1
+sex: 1 
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
+NULL
+----------------------------
